@@ -1,0 +1,53 @@
+body{
+    margin-top: 2%;
+    background-color: #D9F8FF;
+}
+
+.vgec_logo{
+    height: 110px;
+    width: 110px;
+}
+
+.iei_logo{
+    height: 110px;
+    width: 110px;
+}
+
+.name{
+    font-family: Product Sans;
+    font-weight: bold;
+    font-size: 24pt;
+    color: #000078;
+    text-align: center;
+}
+
+.name1{
+    font-family: Product Sans;
+    font-weight: bold;
+    font-size: 30pt;
+    text-align: center;
+}
+
+.name2{
+    font-family: Product Sans;
+    font-weight: bolder;
+    font-size: 48pt;
+    text-align: center;
+    line-height: 60pt;
+    color: #000078;
+}
+
+.name3{
+    font-family: Product Sans;
+    font-weight: bolder;
+    font-size: 36pt;
+    text-align: center;
+}
+
+.count{
+    font-family: Product Sans;
+    font-weight: bold;
+    font-size: 42pt;
+    text-align: center;
+    color: #000078;
+}

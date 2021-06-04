@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Product Sans;
+    margin-top: 10%;
+}
+
+#stopwatch{
+    position: absolute;
+    font-size: 48pt;
+    text-align: center;
+    margin-left: 40%;
+    
+}
+
+.btn-primary{
+    margin-top: 12%;
+    width: 100px;
+    margin-right: 1%;
+    margin-left: 1%;
+    font-size: 18pt;
+    width: 125px;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    font-family: Product Sans;
+    font-weight: bold;
+}
+
+#clock{
+    font-size: 40pt;
+    text-align: center;
+    color: blue;
+}
+
+.digitalclock{
+    text-align: center;
+    color: white;
+    font-size: 48pt;
+    margin-bottom: 2%;
+}
